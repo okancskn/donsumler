@@ -63,6 +63,7 @@
         sayi2 = Convert.ToInt32(s2);
         Toplam = sayi1 + sayi2;
         Console.WriteLine("Toplam: " + Toplam);
+        Console.WriteLine("for Third Commit");
 
         // Parse Methodu
         Console.WriteLine(" ****** Parse Methodu ******");
